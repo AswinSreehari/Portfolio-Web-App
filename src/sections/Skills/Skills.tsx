@@ -27,6 +27,13 @@ function Skills() {
          <SkillList src={checkMarkIcon} skill="Bootstrap" />
       </div>
       <hr />
+      <div className={styles.skillList}>
+        <SkillList src={checkMarkIcon} skill="DataStructure" />
+         <SkillList src={checkMarkIcon} skill="MongoDB" />
+        <SkillList src={checkMarkIcon} skill="C programming" />
+         <SkillList src={checkMarkIcon} skill="C++" />
+       </div>
+      <hr />
       
     </section>
   );

@@ -10,3 +10,6 @@ A modern, responsive personal portfolio website built with ReactJS and TypeScrip
 
 ![Website Screenshot](./src/assets/light_srnct%20(1).png)
 ![Website Screenshot](./src/assets/Dark_srnct.png)
+![Website Screenshot](./src/assets/pro_srnct.png)
+![Website Screenshot](./src/assets/skill_srnct.png)
+![Website Screenshot](./src/assets/contact_srnct.png)
